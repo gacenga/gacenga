@@ -9,8 +9,8 @@
 ### 🚀 About Me
 - 📚  Final Year Student @ University of Nairobi
 - 🧠  Passionate about building tech solutions for economic and social development
-- 💬  I love working with **Python**, **Flask**, **JavaScript**, and **Data Science**
-- 🔭  Currently building **[Jua Economy](https://gacenga.github.io/Jimwilly_Murimi_Gacenga/)** — a live visualization of Kenya’s economy
+- 💬  I love working with **Python for data science**, **Flask**, **JavaScript**, and **SQL**
+- 🔭  Currently building **[Jua Economy](https://jua-economy.onrender.com)** — a live visualization of Kenya’s economy
 - ✍️  Writing blogs on economics, tech, and the future of Africa
 
 ---
@@ -42,19 +42,19 @@
 - 🌍 *The Future of Development Economics in Africa*
 <!-- BLOG-POST-LIST:END -->
 
-*(Full articles coming soon on [my blog](https://gacenga.github.io/Jimwilly_Murimi_Gacenga/))*
+*(Full articles coming soon on [my blog](https://jimwilly.me/))*
 
 ---
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/Jimco73767503" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/gacenga-jimwilly-murimi-smart-solutions" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:jimwillymurigu@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
